@@ -5,3 +5,4 @@ b=int(input("number"))
 c=a+b
 print(c)
 print("bruh")
+print("dsghafsdgbkgvsdjkfgvahgvbjbsdjkfgvjksbjfgnbhjlsgbjhg")
